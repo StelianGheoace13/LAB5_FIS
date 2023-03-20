@@ -1,2 +1,4 @@
 # LAB5_FIS
 gonta_gheoace_repository
+ceva aici trebuie modificat
+asfdradasdsdasda
